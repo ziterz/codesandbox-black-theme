@@ -1,6 +1,6 @@
 # CodeSandbox Black Theme
 
-This is the unofficial theme used by [codesandbox.io](https://codesandbox.io/).
+This is the official theme used by [codesandbox.io](https://codesandbox.io/).
 
 ![Theme Preview](https://github.com/ziterz/codesandbox-black-theme/blob/master/screenshot.png)
 
