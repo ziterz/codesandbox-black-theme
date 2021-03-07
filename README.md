@@ -13,3 +13,7 @@ https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
 # Fonts
 
 https://www.monolisa.dev/
+
+# Terminal
+
+https://ohmyz.sh/
