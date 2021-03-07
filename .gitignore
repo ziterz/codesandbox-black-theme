@@ -8,4 +8,5 @@ Thumbs.db
 node_modules/
 .log
 
+*.vsix
 .vsix
