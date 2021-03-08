@@ -10,7 +10,6 @@ Note: The font stack used by CodeSandbox is `MonoLisa, Menlo, Monaco, 'Courier N
 
 [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
-
 # Fonts
 
 [MonoLisa](https://www.monolisa.dev/)
