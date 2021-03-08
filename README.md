@@ -6,12 +6,12 @@ This is the official theme used by [codesandbox.io](https://codesandbox.io/).
 
 Note: The font stack used by Codesandbox is `MonoLisa, Menlo, Monaco, 'Courier New', monospace`.
 
-# Icon
+# Icons
 
 [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
 
-# Font
+# Fonts
 
 [MonoLisa](https://www.monolisa.dev/)
 
