@@ -2,7 +2,7 @@
 
 This is the official theme used by [codesandbox.io](https://codesandbox.io/).
 
-![Theme Preview](https://github.com/ziterz/codesandbox-black-theme/blob/master/screenshot.png)
+![Theme Preview](https://raw.githubusercontent.com/ziterz/codesandbox-black-theme/master/screenshot.png)
 
 Note: The font stack used by CodeSandbox is `MonoLisa, Menlo, Monaco, 'Courier New', monospace`.
 
