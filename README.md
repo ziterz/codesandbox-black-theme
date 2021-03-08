@@ -1,10 +1,14 @@
 # CodeSandbox Black Theme
 
-This is the official theme used by [codesandbox.io](https://codesandbox.io/).
+This theme is inspired by [codesandbox.io](https://codesandbox.io/).
 
 ![Theme Preview](https://raw.githubusercontent.com/ziterz/codesandbox-black-theme/master/screenshot.png)
 
-Note: The font stack used by CodeSandbox is `MonoLisa, Menlo, Monaco, 'Courier New', monospace`.
+Note: The font stack used by CodeSandbox is
+
+```
+MonoLisa, Menlo, Monaco, 'Courier New', monospace
+```
 
 # Icons
 
