@@ -1,23 +1,34 @@
-# CodeSandbox Black Theme
-
-This theme is inspired by [codesandbox.io](https://codesandbox.io/).
+# CodeSandbox Black
 
 ![Theme Preview](https://raw.githubusercontent.com/ziterz/codesandbox-black-theme/master/screenshot.png)
 
-Note: The font stack used by CodeSandbox is
+Note: The font stack used is
 
-```
+```yaml
 MonoLisa, Menlo, Monaco, 'Courier New', monospace
 ```
 
-# Icons
+## Preview
 
-[Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+![React](assets/react.png)
+![React Code](assets/reactcode.png)
 
-# Fonts
 
-[MonoLisa](https://www.monolisa.dev/)
+## Icons
 
-# Terminal
+![Material Icon](assets/materialicons.png)
+Get Material Icons here [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
-[Oh My Zsh](https://ohmyz.sh/)
+&nbsp;
+
+## Fonts
+
+![MonoLisa](assets/monolisa.gif)
+Get MonoLisa fonts here [MonoLisa](https://www.monolisa.dev/)
+
+&nbsp;
+
+## Terminal
+
+![MonoLisa](assets/ohmyzsh.png)
+Get Oh My Zsh for your terminal here [Oh My Zsh!](https://ohmyz.sh/)

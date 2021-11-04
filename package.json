@@ -1,7 +1,7 @@
 {
   "name": "codesandbox-black-theme",
-  "displayName": "CodeSandbox Black Theme",
-  "version": "1.2.1",
+  "displayName": "CodeSandbox Black",
+  "version": "1.2.2",
   "publisher": "ziterz",
   "description": "CodeSandbox Black theme for VSCode.",
   "repository": {

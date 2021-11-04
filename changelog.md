@@ -12,6 +12,6 @@
 
 - Change mint color to #41B883
 
-### Version 1.2.1 - 2020-11-04
+### Version 1.2.2 - 2020-11-04
 
 - Final update
