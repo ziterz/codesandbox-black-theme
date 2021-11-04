@@ -1,0 +1,14 @@
+.DS_Store
+Desktop.ini
+._*
+Thumbs.db
+.Spotlight-V100
+.Trashes
+
+node_modules/
+.log
+
+*.vsix
+.vsix
+
+themes

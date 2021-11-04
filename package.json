@@ -1,0 +1,37 @@
+{
+  "name": "codesandbox-black-theme",
+  "displayName": "CodeSandbox Black Theme",
+  "version": "1.2.1",
+  "publisher": "ziterz",
+  "description": "CodeSandbox Black theme for VSCode.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziterz/codesandbox-black-theme.git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#151515",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.28.0"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "CodeSandbox Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/codesandbox-black-theme.json"
+      }
+    ]
+  },
+  "author": "Ziady Mubaraq",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ziterz/codesandbox-black-theme/issues"
+  },
+  "homepage": "https://github.com/ziterz/codesandbox-black-theme#readme"
+}
