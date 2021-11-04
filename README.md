@@ -11,12 +11,13 @@ MonoLisa, Menlo, Monaco, 'Courier New', monospace
 ## Preview
 
 ![React](assets/react.png)
-![React Code](assets/reactcode.png)
 
+&nbsp;
 
 ## Icons
 
 ![Material Icon](assets/materialicons.png)
+
 Get Material Icons here [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
 &nbsp;
@@ -24,6 +25,7 @@ Get Material Icons here [Material Icon Theme](https://marketplace.visualstudio.c
 ## Fonts
 
 ![MonoLisa](assets/monolisa.gif)
+
 Get MonoLisa fonts here [MonoLisa](https://www.monolisa.dev/)
 
 &nbsp;
@@ -31,4 +33,5 @@ Get MonoLisa fonts here [MonoLisa](https://www.monolisa.dev/)
 ## Terminal
 
 ![MonoLisa](assets/ohmyzsh.png)
+
 Get Oh My Zsh for your terminal here [Oh My Zsh!](https://ohmyz.sh/)
