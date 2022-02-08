@@ -19,3 +19,7 @@
 ### Version 1.2.4 - 2020-11-05
 
 - Final update
+
+### Version 1.2.5 - 2022-02-08
+
+- Fix issue for active tab with border color
